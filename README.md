@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey 👋, I'm Charan
 
-<!--
-**Charan-1810/Charan-1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🚀 Developer  
+🧠 DSA Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on ...
+- 🌱 Currently learning ...
+- 💡 Interested in ...
+- 🎯 Goal: Become a strong software engineer
+
+## 🛠️ Tech Stack
+
+### Languages
+C++ • JavaScript • Python
+
+### Frontend
+HTML • CSS • React
+
+### Backend
+Node.js • Express • MongoDB
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
