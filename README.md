@@ -157,7 +157,7 @@ Calculator project built with Python.
 
 ## 📈 CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan-1810&theme=github-compact&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan-1810&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -165,15 +165,11 @@ Calculator project built with Python.
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
+## 📈 CONTRIBUTION ACTIVITY
 
-<img src="https://raw.githubusercontent.com/Charan-1810/Charan-1810/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan-1810&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
-
----
-
-<div align="center">
 
 ## 🌱 CURRENTLY LEARNING
 
@@ -227,7 +223,7 @@ System Design      ███████░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
-<a href="charanl1810@gmail.com">
+<a href="mailto:charanl1810@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
