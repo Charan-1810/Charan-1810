@@ -222,15 +222,12 @@ System Design      ███████░░░░░░░░░░░░░
 
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/charan-l-b37a392b6/">
 
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 
 </a>
 
