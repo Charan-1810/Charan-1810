@@ -141,9 +141,7 @@ Calculator project built with Python.
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Charan-1810&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan-1810&layout=compact&hide_border=true&theme=dark"/>
 
 <br><br>
 
@@ -155,21 +153,7 @@ Calculator project built with Python.
 
 <div align="center">
 
-## 📈 CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan-1810&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan-1810&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
 
 ## 🌱 CURRENTLY LEARNING
 
