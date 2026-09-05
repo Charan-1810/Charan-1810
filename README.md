@@ -29,7 +29,6 @@
 ```text
 💻 Computer Science Student
 🧠 DSA & Problem Solving Enthusiast
-🚀 Full Stack Developer
 ⚙️ Interested in Systems & Computer Science
 🌱 Currently learning something new every day
 🎯 Goal → Become a strong Software Engineer
